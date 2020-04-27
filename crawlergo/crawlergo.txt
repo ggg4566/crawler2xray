@@ -1,0 +1,1 @@
+wget https://github.com/0Kee-Team/crawlergo/releases/download/v0.2.0/crawlergo_linux_amd64.zip
