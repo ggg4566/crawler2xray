@@ -20,7 +20,7 @@ urls_queue = queue.Queue()
 tclose=0
 path = "D:/Tools/PTTools/VulnScan/chrome-win/chrome.exe"
 def put_file_contents(filename,contents):
-    with open(filename,"ab+") as fin:
+    with open(filename,"a+") as fin:
         fin.write(contents+"\n")
 
 
